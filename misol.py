@@ -29,3 +29,5 @@ cinema = [
 ]
 n = input("Film nomini kirting: ")
 print(filmlar_royxati(cinema, n))
+
+print("nima")
